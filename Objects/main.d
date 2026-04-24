@@ -29,4 +29,6 @@
 .\objects\main.o: .\StdLib_Drivers\stm32f10x_wwdg.h
 .\objects\main.o: .\StdLib_Drivers\misc.h
 .\objects\main.o: .\Drivers\led_drv.h
+.\objects\main.o: .\Drivers\key_drv.h
 .\objects\main.o: .\Peripheral\co_delay.h
+.\objects\main.o: .\Peripheral\timer.h
