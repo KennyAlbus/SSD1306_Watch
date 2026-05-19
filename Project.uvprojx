@@ -404,6 +404,11 @@
               <FileType>1</FileType>
               <FilePath>.\Drivers\key_drv.c</FilePath>
             </File>
+            <File>
+              <FileName>encoder_exti_drv.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Drivers\encoder_exti_drv.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -423,6 +428,11 @@
               <FileName>timer.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Peripheral\timer.c</FilePath>
+            </File>
+            <File>
+              <FileName>uart.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Peripheral\uart.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -453,6 +463,11 @@
               <FileName>stm32f10x_usart.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\StdLib_Drivers\stm32f10x_usart.c</FilePath>
+            </File>
+            <File>
+              <FileName>stm32f10x_exti.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\StdLib_Drivers\stm32f10x_exti.c</FilePath>
             </File>
           </Files>
         </Group>
