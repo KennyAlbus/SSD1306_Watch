@@ -16,7 +16,7 @@ static key_list_t key_info[] =
 {
   {RCC_APB2Periph_GPIOB,GPIOB,GPIO_Pin_1,GPIO_Mode_IPU},
 	{RCC_APB2Periph_GPIOA,GPIOA,GPIO_Pin_6,GPIO_Mode_IPU},
-	{RCC_APB2Periph_GPIOA,GPIOA,GPIO_Pin_4,GPIO_Mode_IPU},
+	{RCC_APB2Periph_GPIOA,GPIOA,GPIO_Pin_3,GPIO_Mode_IPU},
 	//add your key here.
 };
 
